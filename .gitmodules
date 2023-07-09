@@ -4,3 +4,6 @@
 [submodule "Getting-Started-with-Programming-in-Java-11"]
 	path = Getting-Started-with-Programming-in-Java-11
 	url = git@github.com:raz-azad/Getting-Started-with-Programming-in-Java-11.git
+[submodule "ClassAndInterface"]
+	path = ClassAndInterface
+	url = git@github.com:raz-azad/ClassAndInterface.git
