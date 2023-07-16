@@ -7,3 +7,6 @@
 [submodule "GettingStartedwithJava"]
 	path = GettingStartedwithJava
 	url = git@github.com:raz-azad/GettingStartedwithJava.git
+[submodule "JavaFX"]
+	path = JavaFX
+	url = git@github.com:raz-azad/JavaFX.git
